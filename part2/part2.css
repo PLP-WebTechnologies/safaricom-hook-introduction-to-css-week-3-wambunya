@@ -1,0 +1,14 @@
+/* Change background color of the webpage */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Style links with hover effects */
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
